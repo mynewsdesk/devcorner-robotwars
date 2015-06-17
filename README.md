@@ -28,6 +28,8 @@ Rules
 
 * Submit your final code through a private message to @woll before 18:00
 
+* No cheating!
+
 
 How-to
 ==================================
