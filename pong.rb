@@ -3,40 +3,53 @@ require "rrobots"
 class Pong
   include Robot
 
+  MAX_SPEED = 8
+  TAUNTS = [
+    "See you in hell!",
+    "Hahaha",
+    "Burn!!",
+    "Too easy!",
+    "FTW!",
+    "Muahahaha",
+    "LOL!",
+  ]
+  FIRE_SPEED = 0.1
+  AIM_SPEED = 4
+  TURN_TICKS = 3
+
   def tick(events)
     @last_seen = time unless events["robot_scanned"].empty?
+    fire FIRE_SPEED
 
     if aligned?
-      pong
+      pong!
     elsif found_wall?
       align!
     else
       find_wall!
     end
+
+    taunt! if !events["got_hit"].empty? || !events["robot_scanned"].empty?
   end
 
   private
 
-  def pong
+  def pong!
     puts = time_since_last_seen
 
-    fire 0.3
-
-    aim_speed = 3
-
     if @aiming_up
-      turn_gun_to_heading(90, aim_speed, true)
-      @aiming_up = false if gun_heading == 90 || time_since_last_seen == 6
+      turn_gun_to_heading(90, AIM_SPEED, true)
+      @aiming_up = false if gun_heading == 90 || time_since_last_seen == TURN_TICKS
     else
-      turn_gun_to_heading(270, aim_speed, false)
-      @aiming_up = true if gun_heading == 270 || time_since_last_seen == 6
+      turn_gun_to_heading(270, AIM_SPEED, false)
+      @aiming_up = true if gun_heading == 270 || time_since_last_seen == TURN_TICKS
     end
 
     if @going_up
-      accelerate 1
+      accelerate 1 unless speed > MAX_SPEED
       @going_up = false if y <= 0 + size
     else
-      accelerate -1
+      accelerate -1 unless speed < -MAX_SPEED
       @going_up = true if y >= battlefield_height - size
     end
   end
@@ -46,20 +59,28 @@ class Pong
 
     turn_to_heading(90)
 
-    @aligned = heading == 90
+    if heading == 90
+      @aligned = true
+      say "Pong!!"
+    end
   end
 
   def find_wall!
-    puts "x: #{x} / #{battlefield_width - size}, y: #{y} / #{size}"
+    say "To the death!!"
 
     turn_to_heading(0)
 
-    fire 0.3
-    turn_gun 10
+    turn_gun_to_heading(180)
 
     accelerate 1
 
-    @found_wall = x >= battlefield_width - size
+    if x >= battlefield_width - size
+      @found_wall = true
+    end
+  end
+
+  def taunt!
+    say TAUNTS.sample
   end
 
   def aligned?
