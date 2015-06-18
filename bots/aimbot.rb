@@ -1,6 +1,6 @@
 require 'rrobots'
 
-class AimBot
+class Aimbot
   include Robot
 
   attr_accessor :turn_direction
