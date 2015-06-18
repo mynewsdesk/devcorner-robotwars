@@ -37,7 +37,7 @@ class Bobo
   end
 
   def fire_at_enemy
-    puts "gun_heading: #{gun_heading} radar_heading: #{radar_heading} enemy_found: #{@enemy_found}"
+    #puts "gun_heading: #{gun_heading} radar_heading: #{radar_heading} enemy_found: #{@enemy_found}"
     turn_gun 10 if gun_heading < @enemy_found-30
     turn_gun 5 if gun_heading < @enemy_found-6
     turn_gun 1 if gun_heading < @enemy_found-1
