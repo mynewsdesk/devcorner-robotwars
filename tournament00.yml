@@ -1,0 +1,3625 @@
+---
+- winner_is:
+  - Pong
+  winner_energy:
+  - 1.0
+  elapsed_ticks: 3095
+  seed: 1434637350
+  robots:
+    Therminator:
+      damage_given: 99.0
+      damage_taken: 100.2
+      kills: 0
+    Pong:
+      damage_given: 100.2
+      damage_taken: 99.0
+      kills: 1
+  match: 0
+  round: 1
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 25.3
+  elapsed_ticks: 1750
+  seed: 1434637351
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 74.7
+      kills: 1
+    Pong:
+      damage_given: 74.7
+      damage_taken: 108.0
+      kills: 0
+  match: 1
+  round: 1
+- winner_is:
+  - Pong
+  winner_energy:
+  - 28.0
+  elapsed_ticks: 3018
+  seed: 1434637353
+  robots:
+    Therminator:
+      damage_given: 72.0
+      damage_taken: 100.2
+      kills: 0
+    Pong:
+      damage_given: 100.2
+      damage_taken: 72.0
+      kills: 1
+  match: 2
+  round: 1
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 29.8
+  elapsed_ticks: 1815
+  seed: 1434637355
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 70.2
+      kills: 1
+    Pong:
+      damage_given: 70.2
+      damage_taken: 108.0
+      kills: 0
+  match: 3
+  round: 1
+- winner_is:
+  - Pong
+  winner_energy:
+  - 1.0
+  elapsed_ticks: 2867
+  seed: 1434637356
+  robots:
+    Therminator:
+      damage_given: 99.0
+      damage_taken: 100.2
+      kills: 0
+    Pong:
+      damage_given: 100.2
+      damage_taken: 99.0
+      kills: 1
+  match: 4
+  round: 1
+- winner_is:
+  - Pong
+  winner_energy:
+  - 46.0
+  elapsed_ticks: 3174
+  seed: 1434637358
+  robots:
+    Therminator:
+      damage_given: 54.0
+      damage_taken: 100.2
+      kills: 0
+    Pong:
+      damage_given: 100.2
+      damage_taken: 54.0
+      kills: 1
+  match: 5
+  round: 1
+- winner_is:
+  - Pong
+  winner_energy:
+  - 37.0
+  elapsed_ticks: 2603
+  seed: 1434637360
+  robots:
+    Therminator:
+      damage_given: 63.0
+      damage_taken: 100.2
+      kills: 0
+    Pong:
+      damage_given: 100.2
+      damage_taken: 63.0
+      kills: 1
+  match: 6
+  round: 1
+- winner_is:
+  - Pong
+  winner_energy:
+  - 1.0
+  elapsed_ticks: 2515
+  seed: 1434637362
+  robots:
+    Therminator:
+      damage_given: 99.0
+      damage_taken: 100.2
+      kills: 0
+    Pong:
+      damage_given: 100.2
+      damage_taken: 99.0
+      kills: 1
+  match: 7
+  round: 1
+- winner_is:
+  - Pong
+  winner_energy:
+  - 28.0
+  elapsed_ticks: 3167
+  seed: 1434637364
+  robots:
+    Therminator:
+      damage_given: 72.0
+      damage_taken: 100.2
+      kills: 0
+    Pong:
+      damage_given: 100.2
+      damage_taken: 72.0
+      kills: 1
+  match: 8
+  round: 1
+- winner_is:
+  - Pong
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 2797
+  seed: 1434637365
+  robots:
+    Therminator:
+      damage_given: 36.0
+      damage_taken: 100.2
+      kills: 0
+    Pong:
+      damage_given: 100.2
+      damage_taken: 36.0
+      kills: 1
+  match: 9
+  round: 1
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 98.2
+  elapsed_ticks: 1003
+  seed: 1434637367
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 1.8
+      kills: 1
+    Scanner:
+      damage_given: 1.8
+      damage_taken: 108.0
+      kills: 0
+  match: 0
+  round: 2
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 88.0
+  elapsed_ticks: 1519
+  seed: 1434637368
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 12.0
+      kills: 1
+    Scanner:
+      damage_given: 12.0
+      damage_taken: 108.0
+      kills: 0
+  match: 1
+  round: 2
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 97.0
+  elapsed_ticks: 2198
+  seed: 1434637370
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 3.0
+      kills: 1
+    Scanner:
+      damage_given: 3.0
+      damage_taken: 108.0
+      kills: 0
+  match: 2
+  round: 2
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 97.0
+  elapsed_ticks: 2734
+  seed: 1434637371
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 3.0
+      kills: 1
+    Scanner:
+      damage_given: 3.0
+      damage_taken: 108.0
+      kills: 0
+  match: 3
+  round: 2
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 97.6
+  elapsed_ticks: 3451
+  seed: 1434637372
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 2.4
+      kills: 1
+    Scanner:
+      damage_given: 2.4
+      damage_taken: 108.0
+      kills: 0
+  match: 4
+  round: 2
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 99.7
+  elapsed_ticks: 3223
+  seed: 1434637375
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 0.3
+      kills: 1
+    Scanner:
+      damage_given: 0.3
+      damage_taken: 108.0
+      kills: 0
+  match: 5
+  round: 2
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 87.7
+  elapsed_ticks: 3053
+  seed: 1434637377
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 12.3
+      kills: 1
+    Scanner:
+      damage_given: 12.3
+      damage_taken: 108.0
+      kills: 0
+  match: 6
+  round: 2
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 97.0
+  elapsed_ticks: 1156
+  seed: 1434637379
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 3.0
+      kills: 1
+    Scanner:
+      damage_given: 3.0
+      damage_taken: 108.0
+      kills: 0
+  match: 7
+  round: 2
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 97.0
+  elapsed_ticks: 979
+  seed: 1434637380
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 3.0
+      kills: 1
+    Scanner:
+      damage_given: 3.0
+      damage_taken: 108.0
+      kills: 0
+  match: 8
+  round: 2
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 88.0
+  elapsed_ticks: 1580
+  seed: 1434637381
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 12.0
+      kills: 1
+    Scanner:
+      damage_given: 12.0
+      damage_taken: 108.0
+      kills: 0
+  match: 9
+  round: 2
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 44.8
+  elapsed_ticks: 2729
+  seed: 1434637383
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 55.2
+      kills: 1
+    Aimbot:
+      damage_given: 55.2
+      damage_taken: 108.0
+      kills: 0
+  match: 0
+  round: 3
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 75.4
+  elapsed_ticks: 1284
+  seed: 1434637384
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 24.6
+      kills: 1
+    Aimbot:
+      damage_given: 24.6
+      damage_taken: 108.0
+      kills: 0
+  match: 1
+  round: 3
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 2115
+  seed: 1434637387
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 27.0
+      kills: 1
+    Aimbot:
+      damage_given: 27.0
+      damage_taken: 108.0
+      kills: 0
+  match: 2
+  round: 3
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 79.6
+  elapsed_ticks: 1158
+  seed: 1434637388
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 20.4
+      kills: 1
+    Aimbot:
+      damage_given: 20.4
+      damage_taken: 108.0
+      kills: 0
+  match: 3
+  round: 3
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 62.8
+  elapsed_ticks: 1751
+  seed: 1434637389
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 37.2
+      kills: 1
+    Aimbot:
+      damage_given: 37.2
+      damage_taken: 108.0
+      kills: 0
+  match: 4
+  round: 3
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 46.6
+  elapsed_ticks: 2546
+  seed: 1434637391
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 53.4
+      kills: 1
+    Aimbot:
+      damage_given: 53.4
+      damage_taken: 108.0
+      kills: 0
+  match: 5
+  round: 3
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 2299
+  seed: 1434637393
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 45.0
+      kills: 1
+    Aimbot:
+      damage_given: 45.0
+      damage_taken: 108.0
+      kills: 0
+  match: 6
+  round: 3
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 53.8
+  elapsed_ticks: 1668
+  seed: 1434637395
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 46.2
+      kills: 1
+    Aimbot:
+      damage_given: 46.2
+      damage_taken: 108.0
+      kills: 0
+  match: 7
+  round: 3
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 59.2
+  elapsed_ticks: 2400
+  seed: 1434637396
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 40.8
+      kills: 1
+    Aimbot:
+      damage_given: 40.8
+      damage_taken: 108.0
+      kills: 0
+  match: 8
+  round: 3
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 32.2
+  elapsed_ticks: 3457
+  seed: 1434637397
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 67.8
+      kills: 1
+    Aimbot:
+      damage_given: 67.8
+      damage_taken: 108.0
+      kills: 0
+  match: 9
+  round: 3
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 3533
+  seed: 1434637399
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 9.0
+      kills: 1
+    Bender:
+      damage_given: 9.0
+      damage_taken: 108.0
+      kills: 0
+  match: 0
+  round: 4
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 96.7
+  elapsed_ticks: 1584
+  seed: 1434637400
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 3.3
+      kills: 1
+    Bender:
+      damage_given: 3.3
+      damage_taken: 108.0
+      kills: 0
+  match: 1
+  round: 4
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 99.4
+  elapsed_ticks: 3099
+  seed: 1434637402
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 0.6
+      kills: 1
+    Bender:
+      damage_given: 0.6
+      damage_taken: 108.0
+      kills: 0
+  match: 2
+  round: 4
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 97.0
+  elapsed_ticks: 2500
+  seed: 1434637404
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 3.0
+      kills: 1
+    Bender:
+      damage_given: 3.0
+      damage_taken: 108.0
+      kills: 0
+  match: 3
+  round: 4
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 99.7
+  elapsed_ticks: 1718
+  seed: 1434637406
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 0.3
+      kills: 1
+    Bender:
+      damage_given: 0.3
+      damage_taken: 108.0
+      kills: 0
+  match: 4
+  round: 4
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 99.1
+  elapsed_ticks: 1497
+  seed: 1434637407
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 0.9
+      kills: 1
+    Bender:
+      damage_given: 0.9
+      damage_taken: 108.0
+      kills: 0
+  match: 5
+  round: 4
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 88.0
+  elapsed_ticks: 2688
+  seed: 1434637408
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 12.0
+      kills: 1
+    Bender:
+      damage_given: 12.0
+      damage_taken: 108.0
+      kills: 0
+  match: 6
+  round: 4
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 85.9
+  elapsed_ticks: 3200
+  seed: 1434637410
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 14.1
+      kills: 1
+    Bender:
+      damage_given: 14.1
+      damage_taken: 108.0
+      kills: 0
+  match: 7
+  round: 4
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 89.5
+  elapsed_ticks: 1945
+  seed: 1434637411
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 10.5
+      kills: 1
+    Bender:
+      damage_given: 10.5
+      damage_taken: 108.0
+      kills: 0
+  match: 8
+  round: 4
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 94.0
+  elapsed_ticks: 2037
+  seed: 1434637413
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 6.0
+      kills: 1
+    Bender:
+      damage_given: 6.0
+      damage_taken: 108.0
+      kills: 0
+  match: 9
+  round: 4
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 59.5
+  elapsed_ticks: 4540
+  seed: 1434637414
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 40.5
+      kills: 1
+    Redrobot:
+      damage_given: 40.5
+      damage_taken: 108.0
+      kills: 0
+  match: 0
+  round: 5
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 83.5
+  elapsed_ticks: 1429
+  seed: 1434637416
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 16.5
+      kills: 1
+    Redrobot:
+      damage_given: 16.5
+      damage_taken: 108.0
+      kills: 0
+  match: 1
+  round: 5
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 85.0
+  elapsed_ticks: 1981
+  seed: 1434637418
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 15.0
+      kills: 1
+    Redrobot:
+      damage_given: 15.0
+      damage_taken: 108.0
+      kills: 0
+  match: 2
+  round: 5
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 86.5
+  elapsed_ticks: 972
+  seed: 1434637419
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 13.5
+      kills: 1
+    Redrobot:
+      damage_given: 13.5
+      damage_taken: 108.0
+      kills: 0
+  match: 3
+  round: 5
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 67.0
+  elapsed_ticks: 2609
+  seed: 1434637421
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 33.0
+      kills: 1
+    Redrobot:
+      damage_given: 33.0
+      damage_taken: 108.0
+      kills: 0
+  match: 4
+  round: 5
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 29.5
+  elapsed_ticks: 5513
+  seed: 1434637422
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 70.5
+      kills: 1
+    Redrobot:
+      damage_given: 70.5
+      damage_taken: 108.0
+      kills: 0
+  match: 5
+  round: 5
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 52.0
+  elapsed_ticks: 3751
+  seed: 1434637424
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 48.0
+      kills: 1
+    Redrobot:
+      damage_given: 48.0
+      damage_taken: 108.0
+      kills: 0
+  match: 6
+  round: 5
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 79.0
+  elapsed_ticks: 2660
+  seed: 1434637434
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 21.0
+      kills: 1
+    Redrobot:
+      damage_given: 21.0
+      damage_taken: 108.0
+      kills: 0
+  match: 7
+  round: 5
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 59.5
+  elapsed_ticks: 3455
+  seed: 1434637437
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 40.5
+      kills: 1
+    Redrobot:
+      damage_given: 40.5
+      damage_taken: 108.0
+      kills: 0
+  match: 8
+  round: 5
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 59.5
+  elapsed_ticks: 3301
+  seed: 1434637439
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 40.5
+      kills: 1
+    Redrobot:
+      damage_given: 40.5
+      damage_taken: 108.0
+      kills: 0
+  match: 9
+  round: 5
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 1547
+  seed: 1434637443
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 36.0
+      kills: 1
+    T800:
+      damage_given: 36.0
+      damage_taken: 108.0
+      kills: 0
+  match: 0
+  round: 6
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 1593
+  seed: 1434637444
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 45.0
+      kills: 1
+    T800:
+      damage_given: 45.0
+      damage_taken: 108.0
+      kills: 0
+  match: 1
+  round: 6
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 70.0
+  elapsed_ticks: 2737
+  seed: 1434637446
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 30.0
+      kills: 1
+    T800:
+      damage_given: 30.0
+      damage_taken: 108.0
+      kills: 0
+  match: 2
+  round: 6
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 28.0
+  elapsed_ticks: 3164
+  seed: 1434637447
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 72.0
+      kills: 1
+    T800:
+      damage_given: 72.0
+      damage_taken: 108.0
+      kills: 0
+  match: 3
+  round: 6
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 37.0
+  elapsed_ticks: 1937
+  seed: 1434637449
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 63.0
+      kills: 1
+    T800:
+      damage_given: 63.0
+      damage_taken: 108.0
+      kills: 0
+  match: 4
+  round: 6
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 79.0
+  elapsed_ticks: 1498
+  seed: 1434637450
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 21.0
+      kills: 1
+    T800:
+      damage_given: 21.0
+      damage_taken: 108.0
+      kills: 0
+  match: 5
+  round: 6
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 39.7
+  elapsed_ticks: 2131
+  seed: 1434637451
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 60.3
+      kills: 1
+    T800:
+      damage_given: 60.3
+      damage_taken: 108.0
+      kills: 0
+  match: 6
+  round: 6
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 9.1
+  elapsed_ticks: 2887
+  seed: 1434637453
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 90.9
+      kills: 1
+    T800:
+      damage_given: 90.9
+      damage_taken: 108.0
+      kills: 0
+  match: 7
+  round: 6
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 88.0
+  elapsed_ticks: 1257
+  seed: 1434637454
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 12.0
+      kills: 1
+    T800:
+      damage_given: 12.0
+      damage_taken: 108.0
+      kills: 0
+  match: 8
+  round: 6
+- winner_is:
+  - Therminator
+  winner_energy:
+  - 66.7
+  elapsed_ticks: 1517
+  seed: 1434637456
+  robots:
+    Therminator:
+      damage_given: 108.0
+      damage_taken: 33.3
+      kills: 1
+    T800:
+      damage_given: 33.3
+      damage_taken: 108.0
+      kills: 0
+  match: 9
+  round: 6
+- winner_is:
+  - Pong
+  winner_energy:
+  - 70.6
+  elapsed_ticks: 4748
+  seed: 1434637457
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 29.4
+      kills: 1
+    Scanner:
+      damage_given: 29.4
+      damage_taken: 100.2
+      kills: 0
+  match: 0
+  round: 7
+- winner_is:
+  - Pong
+  winner_energy:
+  - 70.6
+  elapsed_ticks: 4736
+  seed: 1434637460
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 29.4
+      kills: 1
+    Scanner:
+      damage_given: 29.4
+      damage_taken: 100.2
+      kills: 0
+  match: 1
+  round: 7
+- winner_is:
+  - Pong
+  winner_energy:
+  - 55.6
+  elapsed_ticks: 5067
+  seed: 1434637463
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 44.4
+      kills: 1
+    Scanner:
+      damage_given: 44.4
+      damage_taken: 100.2
+      kills: 0
+  match: 2
+  round: 7
+- winner_is:
+  - Pong
+  winner_energy:
+  - 96.4
+  elapsed_ticks: 4720
+  seed: 1434637466
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 3.6
+      kills: 1
+    Scanner:
+      damage_given: 3.6
+      damage_taken: 100.2
+      kills: 0
+  match: 3
+  round: 7
+- winner_is:
+  - Pong
+  winner_energy:
+  - 82.6
+  elapsed_ticks: 1862
+  seed: 1434637470
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 17.4
+      kills: 1
+    Scanner:
+      damage_given: 17.4
+      damage_taken: 100.2
+      kills: 0
+  match: 4
+  round: 7
+- winner_is:
+  - Pong
+  winner_energy:
+  - 56.2
+  elapsed_ticks: 4704
+  seed: 1434637471
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 43.8
+      kills: 1
+    Scanner:
+      damage_given: 43.8
+      damage_taken: 100.2
+      kills: 0
+  match: 5
+  round: 7
+- winner_is:
+  - Pong
+  winner_energy:
+  - 59.2
+  elapsed_ticks: 3774
+  seed: 1434637474
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 40.8
+      kills: 1
+    Scanner:
+      damage_given: 40.8
+      damage_taken: 100.2
+      kills: 0
+  match: 6
+  round: 7
+- winner_is:
+  - Pong
+  winner_energy:
+  - 55.6
+  elapsed_ticks: 5174
+  seed: 1434637475
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 44.4
+      kills: 1
+    Scanner:
+      damage_given: 44.4
+      damage_taken: 100.2
+      kills: 0
+  match: 7
+  round: 7
+- winner_is:
+  - Pong
+  winner_energy:
+  - 84.4
+  elapsed_ticks: 1472
+  seed: 1434637478
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 15.6
+      kills: 1
+    Scanner:
+      damage_given: 15.6
+      damage_taken: 100.2
+      kills: 0
+  match: 8
+  round: 7
+- winner_is:
+  - Pong
+  winner_energy:
+  - 97.0
+  elapsed_ticks: 3868
+  seed: 1434637479
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 3.0
+      kills: 1
+    Scanner:
+      damage_given: 3.0
+      damage_taken: 100.2
+      kills: 0
+  match: 9
+  round: 7
+- winner_is:
+  - Pong
+  winner_energy:
+  - 45.1
+  elapsed_ticks: 2767
+  seed: 1434637481
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 54.9
+      kills: 1
+    Aimbot:
+      damage_given: 54.9
+      damage_taken: 100.2
+      kills: 0
+  match: 0
+  round: 8
+- winner_is:
+  - Pong
+  winner_energy:
+  - 87.7
+  elapsed_ticks: 2720
+  seed: 1434637483
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 12.3
+      kills: 1
+    Aimbot:
+      damage_given: 12.3
+      damage_taken: 100.2
+      kills: 0
+  match: 1
+  round: 8
+- winner_is:
+  - Pong
+  winner_energy:
+  - 81.7
+  elapsed_ticks: 3485
+  seed: 1434637485
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 18.3
+      kills: 1
+    Aimbot:
+      damage_given: 18.3
+      damage_taken: 100.2
+      kills: 0
+  match: 2
+  round: 8
+- winner_is:
+  - Pong
+  winner_energy:
+  - 61.3
+  elapsed_ticks: 2888
+  seed: 1434637486
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 38.7
+      kills: 1
+    Aimbot:
+      damage_given: 38.7
+      damage_taken: 100.2
+      kills: 0
+  match: 3
+  round: 8
+- winner_is:
+  - Pong
+  winner_energy:
+  - 60.7
+  elapsed_ticks: 3284
+  seed: 1434637488
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 39.3
+      kills: 1
+    Aimbot:
+      damage_given: 39.3
+      damage_taken: 100.2
+      kills: 0
+  match: 4
+  round: 8
+- winner_is:
+  - Pong
+  winner_energy:
+  - 71.2
+  elapsed_ticks: 2404
+  seed: 1434637490
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 28.8
+      kills: 1
+    Aimbot:
+      damage_given: 28.8
+      damage_taken: 100.2
+      kills: 0
+  match: 5
+  round: 8
+- winner_is:
+  - Pong
+  winner_energy:
+  - 64.0
+  elapsed_ticks: 3286
+  seed: 1434637491
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 36.0
+      kills: 1
+    Aimbot:
+      damage_given: 36.0
+      damage_taken: 100.2
+      kills: 0
+  match: 6
+  round: 8
+- winner_is:
+  - Pong
+  winner_energy:
+  - 63.1
+  elapsed_ticks: 3259
+  seed: 1434637495
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 36.9
+      kills: 1
+    Aimbot:
+      damage_given: 36.9
+      damage_taken: 100.2
+      kills: 0
+  match: 7
+  round: 8
+- winner_is:
+  - Pong
+  winner_energy:
+  - 57.1
+  elapsed_ticks: 2968
+  seed: 1434637497
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 42.9
+      kills: 1
+    Aimbot:
+      damage_given: 42.9
+      damage_taken: 100.2
+      kills: 0
+  match: 8
+  round: 8
+- winner_is:
+  - Pong
+  winner_energy:
+  - 66.1
+  elapsed_ticks: 3019
+  seed: 1434637498
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 33.9
+      kills: 1
+    Aimbot:
+      damage_given: 33.9
+      damage_taken: 100.2
+      kills: 0
+  match: 9
+  round: 8
+- winner_is:
+  - Pong
+  winner_energy:
+  - 94.0
+  elapsed_ticks: 3064
+  seed: 1434637500
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 6.0
+      kills: 1
+    Bender:
+      damage_given: 6.0
+      damage_taken: 100.2
+      kills: 0
+  match: 0
+  round: 9
+- winner_is:
+  - Pong
+  winner_energy:
+  - 100.0
+  elapsed_ticks: 2703
+  seed: 1434637502
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 0.0
+      kills: 1
+    Bender:
+      damage_given: 0.0
+      damage_taken: 100.2
+      kills: 0
+  match: 1
+  round: 9
+- winner_is:
+  - Pong
+  winner_energy:
+  - 100.0
+  elapsed_ticks: 3498
+  seed: 1434637503
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 0.0
+      kills: 1
+    Bender:
+      damage_given: 0.0
+      damage_taken: 100.2
+      kills: 0
+  match: 2
+  round: 9
+- winner_is:
+  - Pong
+  winner_energy:
+  - 100.0
+  elapsed_ticks: 3028
+  seed: 1434637505
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 0.0
+      kills: 1
+    Bender:
+      damage_given: 0.0
+      damage_taken: 100.2
+      kills: 0
+  match: 3
+  round: 9
+- winner_is:
+  - Pong
+  winner_energy:
+  - 100.0
+  elapsed_ticks: 2969
+  seed: 1434637507
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 0.0
+      kills: 1
+    Bender:
+      damage_given: 0.0
+      damage_taken: 100.2
+      kills: 0
+  match: 4
+  round: 9
+- winner_is:
+  - Pong
+  winner_energy:
+  - 100.0
+  elapsed_ticks: 3023
+  seed: 1434637508
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 0.0
+      kills: 1
+    Bender:
+      damage_given: 0.0
+      damage_taken: 100.2
+      kills: 0
+  match: 5
+  round: 9
+- winner_is:
+  - Pong
+  winner_energy:
+  - 97.0
+  elapsed_ticks: 2819
+  seed: 1434637510
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 3.0
+      kills: 1
+    Bender:
+      damage_given: 3.0
+      damage_taken: 100.2
+      kills: 0
+  match: 6
+  round: 9
+- winner_is:
+  - Pong
+  winner_energy:
+  - 99.7
+  elapsed_ticks: 2443
+  seed: 1434637512
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 0.3
+      kills: 1
+    Bender:
+      damage_given: 0.3
+      damage_taken: 100.2
+      kills: 0
+  match: 7
+  round: 9
+- winner_is:
+  - Pong
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 3060
+  seed: 1434637513
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 9.0
+      kills: 1
+    Bender:
+      damage_given: 9.0
+      damage_taken: 100.2
+      kills: 0
+  match: 8
+  round: 9
+- winner_is:
+  - Pong
+  winner_energy:
+  - 100.0
+  elapsed_ticks: 2298
+  seed: 1434637515
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 0.0
+      kills: 1
+    Bender:
+      damage_given: 0.0
+      damage_taken: 100.2
+      kills: 0
+  match: 9
+  round: 9
+- winner_is:
+  - Pong
+  winner_energy:
+  - 56.5
+  elapsed_ticks: 5865
+  seed: 1434637516
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 43.5
+      kills: 1
+    Redrobot:
+      damage_given: 43.5
+      damage_taken: 100.2
+      kills: 0
+  match: 0
+  round: 10
+- winner_is:
+  - Pong
+  winner_energy:
+  - 23.5
+  elapsed_ticks: 7035
+  seed: 1434637518
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 76.5
+      kills: 1
+    Redrobot:
+      damage_given: 76.5
+      damage_taken: 100.2
+      kills: 0
+  match: 1
+  round: 10
+- winner_is:
+  - Pong
+  winner_energy:
+  - 46.0
+  elapsed_ticks: 3370
+  seed: 1434637522
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 54.0
+      kills: 1
+    Redrobot:
+      damage_given: 54.0
+      damage_taken: 100.2
+      kills: 0
+  match: 2
+  round: 10
+- winner_is:
+  - Pong
+  winner_energy:
+  - 44.5
+  elapsed_ticks: 4061
+  seed: 1434637523
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 55.5
+      kills: 1
+    Redrobot:
+      damage_given: 55.5
+      damage_taken: 100.2
+      kills: 0
+  match: 3
+  round: 10
+- winner_is:
+  - Pong
+  winner_energy:
+  - 98.5
+  elapsed_ticks: 7303
+  seed: 1434637526
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 1.5
+      kills: 1
+    Redrobot:
+      damage_given: 1.5
+      damage_taken: 100.2
+      kills: 0
+  match: 4
+  round: 10
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 27.4
+  elapsed_ticks: 5189
+  seed: 1434637529
+  robots:
+    Pong:
+      damage_given: 72.6
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 72.6
+      kills: 1
+  match: 5
+  round: 10
+- winner_is:
+  - Pong
+  winner_energy:
+  - 43.0
+  elapsed_ticks: 3908
+  seed: 1434637530
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 57.0
+      kills: 1
+    Redrobot:
+      damage_given: 57.0
+      damage_taken: 100.2
+      kills: 0
+  match: 6
+  round: 10
+- winner_is:
+  - Pong
+  winner_energy:
+  - 32.5
+  elapsed_ticks: 6272
+  seed: 1434637532
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 67.5
+      kills: 1
+    Redrobot:
+      damage_given: 67.5
+      damage_taken: 100.2
+      kills: 0
+  match: 7
+  round: 10
+- winner_is:
+  - Pong
+  winner_energy:
+  - 47.5
+  elapsed_ticks: 3849
+  seed: 1434637534
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 52.5
+      kills: 1
+    Redrobot:
+      damage_given: 52.5
+      damage_taken: 100.2
+      kills: 0
+  match: 8
+  round: 10
+- winner_is:
+  - Pong
+  winner_energy:
+  - 70.0
+  elapsed_ticks: 6727
+  seed: 1434637536
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 30.0
+      kills: 1
+    Redrobot:
+      damage_given: 30.0
+      damage_taken: 100.2
+      kills: 0
+  match: 9
+  round: 10
+- winner_is:
+  - Pong
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 3714
+  seed: 1434637538
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 18.0
+      kills: 1
+    T800:
+      damage_given: 18.0
+      damage_taken: 100.2
+      kills: 0
+  match: 0
+  round: 11
+- winner_is:
+  - Pong
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 3583
+  seed: 1434637540
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 18.0
+      kills: 1
+    T800:
+      damage_given: 18.0
+      damage_taken: 100.2
+      kills: 0
+  match: 1
+  round: 11
+- winner_is:
+  - Pong
+  winner_energy:
+  - 88.0
+  elapsed_ticks: 2547
+  seed: 1434637543
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 12.0
+      kills: 1
+    T800:
+      damage_given: 12.0
+      damage_taken: 100.2
+      kills: 0
+  match: 2
+  round: 11
+- winner_is:
+  - Pong
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 3333
+  seed: 1434637545
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 27.0
+      kills: 1
+    T800:
+      damage_given: 27.0
+      damage_taken: 100.2
+      kills: 0
+  match: 3
+  round: 11
+- winner_is:
+  - Pong
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 3776
+  seed: 1434637546
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 18.0
+      kills: 1
+    T800:
+      damage_given: 18.0
+      damage_taken: 100.2
+      kills: 0
+  match: 4
+  round: 11
+- winner_is:
+  - Pong
+  winner_energy:
+  - 55.0
+  elapsed_ticks: 3128
+  seed: 1434637548
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 45.0
+      kills: 1
+    T800:
+      damage_given: 45.0
+      damage_taken: 100.2
+      kills: 0
+  match: 5
+  round: 11
+- winner_is:
+  - Pong
+  winner_energy:
+  - 70.0
+  elapsed_ticks: 3565
+  seed: 1434637550
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 30.0
+      kills: 1
+    T800:
+      damage_given: 30.0
+      damage_taken: 100.2
+      kills: 0
+  match: 6
+  round: 11
+- winner_is:
+  - Pong
+  winner_energy:
+  - 76.0
+  elapsed_ticks: 2758
+  seed: 1434637551
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 24.0
+      kills: 1
+    T800:
+      damage_given: 24.0
+      damage_taken: 100.2
+      kills: 0
+  match: 7
+  round: 11
+- winner_is:
+  - Pong
+  winner_energy:
+  - 67.0
+  elapsed_ticks: 3683
+  seed: 1434637553
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 33.0
+      kills: 1
+    T800:
+      damage_given: 33.0
+      damage_taken: 100.2
+      kills: 0
+  match: 8
+  round: 11
+- winner_is:
+  - Pong
+  winner_energy:
+  - 79.0
+  elapsed_ticks: 3744
+  seed: 1434637556
+  robots:
+    Pong:
+      damage_given: 100.2
+      damage_taken: 21.0
+      kills: 1
+    T800:
+      damage_given: 21.0
+      damage_taken: 100.2
+      kills: 0
+  match: 9
+  round: 11
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 93.1
+  elapsed_ticks: 7242
+  seed: 1434637557
+  robots:
+    Scanner:
+      damage_given: 6.9
+      damage_taken: 101.4
+      kills: 0
+    Aimbot:
+      damage_given: 101.4
+      damage_taken: 6.9
+      kills: 1
+  match: 0
+  round: 12
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 83.2
+  elapsed_ticks: 6957
+  seed: 1434637559
+  robots:
+    Scanner:
+      damage_given: 16.8
+      damage_taken: 101.7
+      kills: 0
+    Aimbot:
+      damage_given: 101.7
+      damage_taken: 16.8
+      kills: 1
+  match: 1
+  round: 12
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 91.6
+  elapsed_ticks: 3569
+  seed: 1434637561
+  robots:
+    Scanner:
+      damage_given: 8.4
+      damage_taken: 100.5
+      kills: 0
+    Aimbot:
+      damage_given: 100.5
+      damage_taken: 8.4
+      kills: 1
+  match: 2
+  round: 12
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 3827
+  seed: 1434637563
+  robots:
+    Scanner:
+      damage_given: 9.0
+      damage_taken: 102.9
+      kills: 0
+    Aimbot:
+      damage_given: 102.9
+      damage_taken: 9.0
+      kills: 1
+  match: 3
+  round: 12
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 59.2
+  elapsed_ticks: 4908
+  seed: 1434637565
+  robots:
+    Scanner:
+      damage_given: 40.8
+      damage_taken: 100.8
+      kills: 0
+    Aimbot:
+      damage_given: 100.8
+      damage_taken: 40.8
+      kills: 1
+  match: 4
+  round: 12
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 91.6
+  elapsed_ticks: 4726
+  seed: 1434637567
+  robots:
+    Scanner:
+      damage_given: 8.4
+      damage_taken: 102.0
+      kills: 0
+    Aimbot:
+      damage_given: 102.0
+      damage_taken: 8.4
+      kills: 1
+  match: 5
+  round: 12
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 6275
+  seed: 1434637569
+  robots:
+    Scanner:
+      damage_given: 18.0
+      damage_taken: 102.6
+      kills: 0
+    Aimbot:
+      damage_given: 102.6
+      damage_taken: 18.0
+      kills: 1
+  match: 6
+  round: 12
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 77.8
+  elapsed_ticks: 3953
+  seed: 1434637571
+  robots:
+    Scanner:
+      damage_given: 22.2
+      damage_taken: 100.5
+      kills: 0
+    Aimbot:
+      damage_given: 100.5
+      damage_taken: 22.2
+      kills: 1
+  match: 7
+  round: 12
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 75.7
+  elapsed_ticks: 3397
+  seed: 1434637573
+  robots:
+    Scanner:
+      damage_given: 24.3
+      damage_taken: 100.8
+      kills: 0
+    Aimbot:
+      damage_given: 100.8
+      damage_taken: 24.3
+      kills: 1
+  match: 8
+  round: 12
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 75.7
+  elapsed_ticks: 3159
+  seed: 1434637575
+  robots:
+    Scanner:
+      damage_given: 24.3
+      damage_taken: 100.2
+      kills: 0
+    Aimbot:
+      damage_given: 100.2
+      damage_taken: 24.3
+      kills: 1
+  match: 9
+  round: 12
+- winner_is:
+  - Scanner
+  - Bender
+  winner_energy:
+  - 70.0
+  - 51.4
+  elapsed_ticks: 10000
+  seed: 1434637576
+  robots:
+    Scanner:
+      damage_given: 48.6
+      damage_taken: 30.0
+      kills: 0
+    Bender:
+      damage_given: 30.0
+      damage_taken: 48.6
+      kills: 0
+  match: 0
+  round: 13
+  timedout: 1
+- winner_is:
+  - Scanner
+  - Bender
+  winner_energy:
+  - 22.3
+  - 8.2
+  elapsed_ticks: 10000
+  seed: 1434637578
+  robots:
+    Scanner:
+      damage_given: 91.8
+      damage_taken: 77.7
+      kills: 0
+    Bender:
+      damage_given: 77.7
+      damage_taken: 91.8
+      kills: 0
+  match: 1
+  round: 13
+  timedout: 1
+- winner_is:
+  - Bender
+  winner_energy:
+  - 100.0
+  elapsed_ticks: 9313
+  seed: 1434637583
+  robots:
+    Scanner:
+      damage_given: 0.0
+      damage_taken: 102.0
+      kills: 0
+    Bender:
+      damage_given: 102.0
+      damage_taken: 0.0
+      kills: 1
+  match: 2
+  round: 13
+- winner_is:
+  - Scanner
+  - Bender
+  winner_energy:
+  - 34.0
+  - 36.7
+  elapsed_ticks: 10000
+  seed: 1434637586
+  robots:
+    Scanner:
+      damage_given: 63.3
+      damage_taken: 66.0
+      kills: 0
+    Bender:
+      damage_given: 66.0
+      damage_taken: 63.3
+      kills: 0
+  match: 3
+  round: 13
+  timedout: 1
+- winner_is:
+  - Scanner
+  - Bender
+  winner_energy:
+  - 94.0
+  - 83.2
+  elapsed_ticks: 10000
+  seed: 1434637591
+  robots:
+    Scanner:
+      damage_given: 16.8
+      damage_taken: 6.0
+      kills: 0
+    Bender:
+      damage_given: 6.0
+      damage_taken: 16.8
+      kills: 0
+  match: 4
+  round: 13
+  timedout: 1
+- winner_is:
+  - Scanner
+  winner_energy:
+  - 72.7
+  elapsed_ticks: 9192
+  seed: 1434637593
+  robots:
+    Scanner:
+      damage_given: 100.2
+      damage_taken: 27.3
+      kills: 1
+    Bender:
+      damage_given: 27.3
+      damage_taken: 100.2
+      kills: 0
+  match: 5
+  round: 13
+- winner_is:
+  - Scanner
+  - Bender
+  winner_energy:
+  - 67.0
+  - 86.2
+  elapsed_ticks: 10000
+  seed: 1434637596
+  robots:
+    Scanner:
+      damage_given: 13.8
+      damage_taken: 33.0
+      kills: 0
+    Bender:
+      damage_given: 33.0
+      damage_taken: 13.8
+      kills: 0
+  match: 6
+  round: 13
+  timedout: 1
+- winner_is:
+  - Scanner
+  - Bender
+  winner_energy:
+  - 82.0
+  - 81.7
+  elapsed_ticks: 10000
+  seed: 1434637598
+  robots:
+    Scanner:
+      damage_given: 18.3
+      damage_taken: 18.0
+      kills: 0
+    Bender:
+      damage_given: 18.0
+      damage_taken: 18.3
+      kills: 0
+  match: 7
+  round: 13
+  timedout: 1
+- winner_is:
+  - Scanner
+  - Bender
+  winner_energy:
+  - 97.0
+  - 44.8
+  elapsed_ticks: 10000
+  seed: 1434637600
+  robots:
+    Scanner:
+      damage_given: 55.2
+      damage_taken: 3.0
+      kills: 0
+    Bender:
+      damage_given: 3.0
+      damage_taken: 55.2
+      kills: 0
+  match: 8
+  round: 13
+  timedout: 1
+- winner_is:
+  - Scanner
+  - Bender
+  winner_energy:
+  - 58.0
+  - 79.9
+  elapsed_ticks: 10000
+  seed: 1434637604
+  robots:
+    Scanner:
+      damage_given: 20.1
+      damage_taken: 42.0
+      kills: 0
+    Bender:
+      damage_given: 42.0
+      damage_taken: 20.1
+      kills: 0
+  match: 9
+  round: 13
+  timedout: 1
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 94.3
+  elapsed_ticks: 9181
+  seed: 1434637607
+  robots:
+    Scanner:
+      damage_given: 5.7
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 5.7
+      kills: 1
+  match: 0
+  round: 14
+- winner_is:
+  - Scanner
+  - Redrobot
+  winner_energy:
+  - 11.5
+  - 85.0
+  elapsed_ticks: 10000
+  seed: 1434637609
+  robots:
+    Scanner:
+      damage_given: 15.0
+      damage_taken: 88.5
+      kills: 0
+    Redrobot:
+      damage_given: 88.5
+      damage_taken: 15.0
+      kills: 0
+  match: 1
+  round: 14
+  timedout: 1
+- winner_is:
+  - Scanner
+  winner_energy:
+  - 73.0
+  elapsed_ticks: 6185
+  seed: 1434637612
+  robots:
+    Scanner:
+      damage_given: 100.2
+      damage_taken: 27.0
+      kills: 1
+    Redrobot:
+      damage_given: 27.0
+      damage_taken: 100.2
+      kills: 0
+  match: 2
+  round: 14
+- winner_is:
+  - Scanner
+  winner_energy:
+  - 65.5
+  elapsed_ticks: 6895
+  seed: 1434637614
+  robots:
+    Scanner:
+      damage_given: 100.2
+      damage_taken: 34.5
+      kills: 1
+    Redrobot:
+      damage_given: 34.5
+      damage_taken: 100.2
+      kills: 0
+  match: 3
+  round: 14
+- winner_is:
+  - Scanner
+  - Redrobot
+  winner_energy:
+  - 16.0
+  - 95.8
+  elapsed_ticks: 10000
+  seed: 1434637617
+  robots:
+    Scanner:
+      damage_given: 4.2
+      damage_taken: 84.0
+      kills: 0
+    Redrobot:
+      damage_given: 84.0
+      damage_taken: 4.2
+      kills: 0
+  match: 4
+  round: 14
+  timedout: 1
+- winner_is:
+  - Scanner
+  - Redrobot
+  winner_energy:
+  - 20.5
+  - 80.8
+  elapsed_ticks: 10000
+  seed: 1434637619
+  robots:
+    Scanner:
+      damage_given: 19.2
+      damage_taken: 79.5
+      kills: 0
+    Redrobot:
+      damage_given: 79.5
+      damage_taken: 19.2
+      kills: 0
+  match: 5
+  round: 14
+  timedout: 1
+- winner_is:
+  - Scanner
+  winner_energy:
+  - 41.5
+  elapsed_ticks: 7954
+  seed: 1434637622
+  robots:
+    Scanner:
+      damage_given: 100.2
+      damage_taken: 58.5
+      kills: 1
+    Redrobot:
+      damage_given: 58.5
+      damage_taken: 100.2
+      kills: 0
+  match: 6
+  round: 14
+- winner_is:
+  - Scanner
+  - Redrobot
+  winner_energy:
+  - 14.5
+  - 96.7
+  elapsed_ticks: 10000
+  seed: 1434637627
+  robots:
+    Scanner:
+      damage_given: 3.3
+      damage_taken: 85.5
+      kills: 0
+    Redrobot:
+      damage_given: 85.5
+      damage_taken: 3.3
+      kills: 0
+  match: 7
+  round: 14
+  timedout: 1
+- winner_is:
+  - Scanner
+  - Redrobot
+  winner_energy:
+  - 61.0
+  - 85.6
+  elapsed_ticks: 10000
+  seed: 1434637629
+  robots:
+    Scanner:
+      damage_given: 14.4
+      damage_taken: 39.0
+      kills: 0
+    Redrobot:
+      damage_given: 39.0
+      damage_taken: 14.4
+      kills: 0
+  match: 8
+  round: 14
+  timedout: 1
+- winner_is:
+  - Scanner
+  - Redrobot
+  winner_energy:
+  - 13.0
+  - 100.0
+  elapsed_ticks: 10000
+  seed: 1434637631
+  robots:
+    Scanner:
+      damage_given: 0.0
+      damage_taken: 87.0
+      kills: 0
+    Redrobot:
+      damage_given: 87.0
+      damage_taken: 0.0
+      kills: 0
+  match: 9
+  round: 14
+  timedout: 1
+- winner_is:
+  - T800
+  winner_energy:
+  - 100.0
+  elapsed_ticks: 2099
+  seed: 1434637634
+  robots:
+    Scanner:
+      damage_given: 0.0
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 0.0
+      kills: 1
+  match: 0
+  round: 15
+- winner_is:
+  - T800
+  winner_energy:
+  - 85.9
+  elapsed_ticks: 8259
+  seed: 1434637635
+  robots:
+    Scanner:
+      damage_given: 14.1
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 14.1
+      kills: 1
+  match: 1
+  round: 15
+- winner_is:
+  - T800
+  winner_energy:
+  - 98.2
+  elapsed_ticks: 1324
+  seed: 1434637637
+  robots:
+    Scanner:
+      damage_given: 1.8
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 1.8
+      kills: 1
+  match: 2
+  round: 15
+- winner_is:
+  - T800
+  winner_energy:
+  - 82.9
+  elapsed_ticks: 8401
+  seed: 1434637638
+  robots:
+    Scanner:
+      damage_given: 17.1
+      damage_taken: 102.3
+      kills: 0
+    T800:
+      damage_given: 102.3
+      damage_taken: 17.1
+      kills: 1
+  match: 3
+  round: 15
+- winner_is:
+  - T800
+  winner_energy:
+  - 97.6
+  elapsed_ticks: 2482
+  seed: 1434637640
+  robots:
+    Scanner:
+      damage_given: 2.4
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 2.4
+      kills: 1
+  match: 4
+  round: 15
+- winner_is:
+  - T800
+  winner_energy:
+  - 87.7
+  elapsed_ticks: 5132
+  seed: 1434637642
+  robots:
+    Scanner:
+      damage_given: 12.3
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 12.3
+      kills: 1
+  match: 5
+  round: 15
+- winner_is:
+  - T800
+  winner_energy:
+  - 94.0
+  elapsed_ticks: 7409
+  seed: 1434637644
+  robots:
+    Scanner:
+      damage_given: 6.0
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 6.0
+      kills: 1
+  match: 6
+  round: 15
+- winner_is:
+  - T800
+  winner_energy:
+  - 89.2
+  elapsed_ticks: 2015
+  seed: 1434637645
+  robots:
+    Scanner:
+      damage_given: 10.8
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 10.8
+      kills: 1
+  match: 7
+  round: 15
+- winner_is:
+  - T800
+  winner_energy:
+  - 96.4
+  elapsed_ticks: 1769
+  seed: 1434637647
+  robots:
+    Scanner:
+      damage_given: 3.6
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 3.6
+      kills: 1
+  match: 8
+  round: 15
+- winner_is:
+  - Scanner
+  - T800
+  winner_energy:
+  - 13.0
+  - 81.4
+  elapsed_ticks: 10000
+  seed: 1434637649
+  robots:
+    Scanner:
+      damage_given: 18.6
+      damage_taken: 87.0
+      kills: 0
+    T800:
+      damage_given: 87.0
+      damage_taken: 18.6
+      kills: 0
+  match: 9
+  round: 15
+  timedout: 1
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 99.1
+  elapsed_ticks: 3635
+  seed: 1434637652
+  robots:
+    Aimbot:
+      damage_given: 102.9
+      damage_taken: 0.9
+      kills: 1
+    Bender:
+      damage_given: 0.9
+      damage_taken: 102.9
+      kills: 0
+  match: 0
+  round: 16
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 78.4
+  elapsed_ticks: 8629
+  seed: 1434637654
+  robots:
+    Aimbot:
+      damage_given: 100.8
+      damage_taken: 21.6
+      kills: 1
+    Bender:
+      damage_given: 21.6
+      damage_taken: 100.8
+      kills: 0
+  match: 1
+  round: 16
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 74.5
+  elapsed_ticks: 7814
+  seed: 1434637656
+  robots:
+    Aimbot:
+      damage_given: 100.2
+      damage_taken: 25.5
+      kills: 1
+    Bender:
+      damage_given: 25.5
+      damage_taken: 100.2
+      kills: 0
+  match: 2
+  round: 16
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 90.7
+  elapsed_ticks: 5550
+  seed: 1434637658
+  robots:
+    Aimbot:
+      damage_given: 100.5
+      damage_taken: 9.3
+      kills: 1
+    Bender:
+      damage_given: 9.3
+      damage_taken: 100.5
+      kills: 0
+  match: 3
+  round: 16
+- winner_is:
+  - Aimbot
+  - Bender
+  winner_energy:
+  - 91.6
+  - 5.2
+  elapsed_ticks: 10000
+  seed: 1434637662
+  robots:
+    Aimbot:
+      damage_given: 94.8
+      damage_taken: 8.4
+      kills: 0
+    Bender:
+      damage_given: 8.4
+      damage_taken: 94.8
+      kills: 0
+  match: 4
+  round: 16
+  timedout: 1
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 86.8
+  elapsed_ticks: 5744
+  seed: 1434637665
+  robots:
+    Aimbot:
+      damage_given: 102.0
+      damage_taken: 13.2
+      kills: 1
+    Bender:
+      damage_given: 13.2
+      damage_taken: 102.0
+      kills: 0
+  match: 5
+  round: 16
+- winner_is:
+  - Aimbot
+  - Bender
+  winner_energy:
+  - 85.0
+  - 5.8
+  elapsed_ticks: 10000
+  seed: 1434637668
+  robots:
+    Aimbot:
+      damage_given: 94.2
+      damage_taken: 15.0
+      kills: 0
+    Bender:
+      damage_given: 15.0
+      damage_taken: 94.2
+      kills: 0
+  match: 6
+  round: 16
+  timedout: 1
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 88.0
+  elapsed_ticks: 7562
+  seed: 1434637670
+  robots:
+    Aimbot:
+      damage_given: 103.2
+      damage_taken: 12.0
+      kills: 1
+    Bender:
+      damage_given: 12.0
+      damage_taken: 103.2
+      kills: 0
+  match: 7
+  round: 16
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 81.7
+  elapsed_ticks: 4390
+  seed: 1434637672
+  robots:
+    Aimbot:
+      damage_given: 101.1
+      damage_taken: 18.3
+      kills: 1
+    Bender:
+      damage_given: 18.3
+      damage_taken: 101.1
+      kills: 0
+  match: 8
+  round: 16
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 81.7
+  elapsed_ticks: 7822
+  seed: 1434637674
+  robots:
+    Aimbot:
+      damage_given: 102.6
+      damage_taken: 18.3
+      kills: 1
+    Bender:
+      damage_given: 18.3
+      damage_taken: 102.6
+      kills: 0
+  match: 9
+  round: 16
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 3.4
+  elapsed_ticks: 9746
+  seed: 1434637677
+  robots:
+    Aimbot:
+      damage_given: 96.6
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 96.6
+      kills: 1
+  match: 0
+  round: 17
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 23.5
+  elapsed_ticks: 8141
+  seed: 1434637680
+  robots:
+    Aimbot:
+      damage_given: 76.5
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 76.5
+      kills: 1
+  match: 1
+  round: 17
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 25.0
+  elapsed_ticks: 8280
+  seed: 1434637682
+  robots:
+    Aimbot:
+      damage_given: 101.7
+      damage_taken: 75.0
+      kills: 1
+    Redrobot:
+      damage_given: 75.0
+      damage_taken: 101.7
+      kills: 0
+  match: 2
+  round: 17
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 25.0
+  elapsed_ticks: 8488
+  seed: 1434637684
+  robots:
+    Aimbot:
+      damage_given: 100.5
+      damage_taken: 75.0
+      kills: 1
+    Redrobot:
+      damage_given: 75.0
+      damage_taken: 100.5
+      kills: 0
+  match: 3
+  round: 17
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 13.0
+  elapsed_ticks: 8242
+  seed: 1434637687
+  robots:
+    Aimbot:
+      damage_given: 102.3
+      damage_taken: 87.0
+      kills: 1
+    Redrobot:
+      damage_given: 87.0
+      damage_taken: 102.3
+      kills: 0
+  match: 4
+  round: 17
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 32.5
+  elapsed_ticks: 5374
+  seed: 1434637689
+  robots:
+    Aimbot:
+      damage_given: 100.2
+      damage_taken: 67.5
+      kills: 1
+    Redrobot:
+      damage_given: 67.5
+      damage_taken: 100.2
+      kills: 0
+  match: 5
+  round: 17
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 0.7
+  elapsed_ticks: 9746
+  seed: 1434637691
+  robots:
+    Aimbot:
+      damage_given: 99.3
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 99.3
+      kills: 1
+  match: 6
+  round: 17
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 1.6
+  elapsed_ticks: 8813
+  seed: 1434637693
+  robots:
+    Aimbot:
+      damage_given: 98.4
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 98.4
+      kills: 1
+  match: 7
+  round: 17
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 25.0
+  elapsed_ticks: 8327
+  seed: 1434637695
+  robots:
+    Aimbot:
+      damage_given: 75.0
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 75.0
+      kills: 1
+  match: 8
+  round: 17
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 20.5
+  elapsed_ticks: 9288
+  seed: 1434637697
+  robots:
+    Aimbot:
+      damage_given: 100.8
+      damage_taken: 79.5
+      kills: 1
+    Redrobot:
+      damage_given: 79.5
+      damage_taken: 100.8
+      kills: 0
+  match: 9
+  round: 17
+- winner_is:
+  - Aimbot
+  winner_energy:
+  - 10.0
+  elapsed_ticks: 5024
+  seed: 1434637700
+  robots:
+    Aimbot:
+      damage_given: 100.5
+      damage_taken: 90.0
+      kills: 1
+    T800:
+      damage_given: 90.0
+      damage_taken: 100.5
+      kills: 0
+  match: 0
+  round: 18
+- winner_is:
+  - T800
+  winner_energy:
+  - 29.2
+  elapsed_ticks: 3087
+  seed: 1434637702
+  robots:
+    Aimbot:
+      damage_given: 70.8
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 70.8
+      kills: 1
+  match: 1
+  round: 18
+- winner_is:
+  - T800
+  winner_energy:
+  - 17.5
+  elapsed_ticks: 3773
+  seed: 1434637703
+  robots:
+    Aimbot:
+      damage_given: 82.5
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 82.5
+      kills: 1
+  match: 2
+  round: 18
+- winner_is:
+  - T800
+  winner_energy:
+  - 34.3
+  elapsed_ticks: 5330
+  seed: 1434637705
+  robots:
+    Aimbot:
+      damage_given: 65.7
+      damage_taken: 102.3
+      kills: 0
+    T800:
+      damage_given: 102.3
+      damage_taken: 65.7
+      kills: 1
+  match: 3
+  round: 18
+- winner_is:
+  - T800
+  winner_energy:
+  - 28.9
+  elapsed_ticks: 4777
+  seed: 1434637707
+  robots:
+    Aimbot:
+      damage_given: 71.1
+      damage_taken: 102.9
+      kills: 0
+    T800:
+      damage_given: 102.9
+      damage_taken: 71.1
+      kills: 1
+  match: 4
+  round: 18
+- winner_is:
+  - T800
+  winner_energy:
+  - 15.7
+  elapsed_ticks: 3867
+  seed: 1434637708
+  robots:
+    Aimbot:
+      damage_given: 84.3
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 84.3
+      kills: 1
+  match: 5
+  round: 18
+- winner_is:
+  - T800
+  winner_energy:
+  - 24.1
+  elapsed_ticks: 6475
+  seed: 1434637710
+  robots:
+    Aimbot:
+      damage_given: 75.9
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 75.9
+      kills: 1
+  match: 6
+  round: 18
+- winner_is:
+  - T800
+  winner_energy:
+  - 10.0
+  elapsed_ticks: 5367
+  seed: 1434637712
+  robots:
+    Aimbot:
+      damage_given: 90.0
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 90.0
+      kills: 1
+  match: 7
+  round: 18
+- winner_is:
+  - T800
+  winner_energy:
+  - 55.9
+  elapsed_ticks: 4203
+  seed: 1434637715
+  robots:
+    Aimbot:
+      damage_given: 44.1
+      damage_taken: 102.3
+      kills: 0
+    T800:
+      damage_given: 102.3
+      damage_taken: 44.1
+      kills: 1
+  match: 8
+  round: 18
+- winner_is:
+  - T800
+  winner_energy:
+  - 35.5
+  elapsed_ticks: 4363
+  seed: 1434637716
+  robots:
+    Aimbot:
+      damage_given: 64.5
+      damage_taken: 102.3
+      kills: 0
+    T800:
+      damage_given: 102.3
+      damage_taken: 64.5
+      kills: 1
+  match: 9
+  round: 18
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 7583
+  seed: 1434637718
+  robots:
+    Bender:
+      damage_given: 9.0
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 9.0
+      kills: 1
+  match: 0
+  round: 19
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 96.1
+  elapsed_ticks: 9415
+  seed: 1434637720
+  robots:
+    Bender:
+      damage_given: 3.9
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 3.9
+      kills: 1
+  match: 1
+  round: 19
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 81.7
+  elapsed_ticks: 9068
+  seed: 1434637722
+  robots:
+    Bender:
+      damage_given: 18.3
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 18.3
+      kills: 1
+  match: 2
+  round: 19
+- winner_is:
+  - Bender
+  - Redrobot
+  winner_energy:
+  - 2.5
+  - 94.0
+  elapsed_ticks: 10000
+  seed: 1434637725
+  robots:
+    Bender:
+      damage_given: 6.0
+      damage_taken: 97.5
+      kills: 0
+    Redrobot:
+      damage_given: 97.5
+      damage_taken: 6.0
+      kills: 0
+  match: 3
+  round: 19
+  timedout: 1
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 79.0
+  elapsed_ticks: 9276
+  seed: 1434637727
+  robots:
+    Bender:
+      damage_given: 21.0
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 21.0
+      kills: 1
+  match: 4
+  round: 19
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 90.7
+  elapsed_ticks: 8608
+  seed: 1434637729
+  robots:
+    Bender:
+      damage_given: 9.3
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 9.3
+      kills: 1
+  match: 5
+  round: 19
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 82.0
+  elapsed_ticks: 8227
+  seed: 1434637731
+  robots:
+    Bender:
+      damage_given: 18.0
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 18.0
+      kills: 1
+  match: 6
+  round: 19
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 90.4
+  elapsed_ticks: 7237
+  seed: 1434637733
+  robots:
+    Bender:
+      damage_given: 9.6
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 9.6
+      kills: 1
+  match: 7
+  round: 19
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 85.0
+  elapsed_ticks: 6205
+  seed: 1434637734
+  robots:
+    Bender:
+      damage_given: 15.0
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 15.0
+      kills: 1
+  match: 8
+  round: 19
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 93.4
+  elapsed_ticks: 7191
+  seed: 1434637736
+  robots:
+    Bender:
+      damage_given: 6.6
+      damage_taken: 100.5
+      kills: 0
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 6.6
+      kills: 1
+  match: 9
+  round: 19
+- winner_is:
+  - T800
+  winner_energy:
+  - 99.4
+  elapsed_ticks: 3881
+  seed: 1434637738
+  robots:
+    Bender:
+      damage_given: 0.6
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 0.6
+      kills: 1
+  match: 0
+  round: 20
+- winner_is:
+  - T800
+  winner_energy:
+  - 98.8
+  elapsed_ticks: 4319
+  seed: 1434637740
+  robots:
+    Bender:
+      damage_given: 1.2
+      damage_taken: 102.6
+      kills: 0
+    T800:
+      damage_given: 102.6
+      damage_taken: 1.2
+      kills: 1
+  match: 1
+  round: 20
+- winner_is:
+  - T800
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 3076
+  seed: 1434637742
+  robots:
+    Bender:
+      damage_given: 9.0
+      damage_taken: 102.3
+      kills: 0
+    T800:
+      damage_given: 102.3
+      damage_taken: 9.0
+      kills: 1
+  match: 2
+  round: 20
+- winner_is:
+  - T800
+  winner_energy:
+  - 93.4
+  elapsed_ticks: 5214
+  seed: 1434637744
+  robots:
+    Bender:
+      damage_given: 6.6
+      damage_taken: 102.3
+      kills: 0
+    T800:
+      damage_given: 102.3
+      damage_taken: 6.6
+      kills: 1
+  match: 3
+  round: 20
+- winner_is:
+  - T800
+  winner_energy:
+  - 90.1
+  elapsed_ticks: 4974
+  seed: 1434637745
+  robots:
+    Bender:
+      damage_given: 9.9
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 9.9
+      kills: 1
+  match: 4
+  round: 20
+- winner_is:
+  - T800
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 2478
+  seed: 1434637748
+  robots:
+    Bender:
+      damage_given: 9.0
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 9.0
+      kills: 1
+  match: 5
+  round: 20
+- winner_is:
+  - T800
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 4182
+  seed: 1434637750
+  robots:
+    Bender:
+      damage_given: 9.0
+      damage_taken: 102.3
+      kills: 0
+    T800:
+      damage_given: 102.3
+      damage_taken: 9.0
+      kills: 1
+  match: 6
+  round: 20
+- winner_is:
+  - T800
+  winner_energy:
+  - 91.0
+  elapsed_ticks: 3812
+  seed: 1434637753
+  robots:
+    Bender:
+      damage_given: 9.0
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 9.0
+      kills: 1
+  match: 7
+  round: 20
+- winner_is:
+  - T800
+  winner_energy:
+  - 81.7
+  elapsed_ticks: 4049
+  seed: 1434637755
+  robots:
+    Bender:
+      damage_given: 18.3
+      damage_taken: 102.3
+      kills: 0
+    T800:
+      damage_given: 102.3
+      damage_taken: 18.3
+      kills: 1
+  match: 8
+  round: 20
+- winner_is:
+  - T800
+  winner_energy:
+  - 84.7
+  elapsed_ticks: 7007
+  seed: 1434637756
+  robots:
+    Bender:
+      damage_given: 15.3
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 15.3
+      kills: 1
+  match: 9
+  round: 20
+- winner_is:
+  - T800
+  winner_energy:
+  - 5.5
+  elapsed_ticks: 9559
+  seed: 1434637758
+  robots:
+    Redrobot:
+      damage_given: 94.5
+      damage_taken: 102.9
+      kills: 0
+    T800:
+      damage_given: 102.9
+      damage_taken: 94.5
+      kills: 1
+  match: 0
+  round: 21
+- winner_is:
+  - T800
+  winner_energy:
+  - 26.5
+  elapsed_ticks: 7462
+  seed: 1434637761
+  robots:
+    Redrobot:
+      damage_given: 73.5
+      damage_taken: 102.6
+      kills: 0
+    T800:
+      damage_given: 102.6
+      damage_taken: 73.5
+      kills: 1
+  match: 1
+  round: 21
+- winner_is:
+  - T800
+  winner_energy:
+  - 37.0
+  elapsed_ticks: 5653
+  seed: 1434637763
+  robots:
+    Redrobot:
+      damage_given: 63.0
+      damage_taken: 102.9
+      kills: 0
+    T800:
+      damage_given: 102.9
+      damage_taken: 63.0
+      kills: 1
+  match: 2
+  round: 21
+- winner_is:
+  - T800
+  winner_energy:
+  - 43.0
+  elapsed_ticks: 6328
+  seed: 1434637765
+  robots:
+    Redrobot:
+      damage_given: 57.0
+      damage_taken: 102.3
+      kills: 0
+    T800:
+      damage_given: 102.3
+      damage_taken: 57.0
+      kills: 1
+  match: 3
+  round: 21
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 4.0
+  elapsed_ticks: 7838
+  seed: 1434637767
+  robots:
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 96.0
+      kills: 1
+    T800:
+      damage_given: 96.0
+      damage_taken: 100.5
+      kills: 0
+  match: 4
+  round: 21
+- winner_is:
+  - Redrobot
+  winner_energy:
+  - 9.7
+  elapsed_ticks: 6663
+  seed: 1434637769
+  robots:
+    Redrobot:
+      damage_given: 100.5
+      damage_taken: 90.3
+      kills: 1
+    T800:
+      damage_given: 90.3
+      damage_taken: 100.5
+      kills: 0
+  match: 5
+  round: 21
+- winner_is:
+  - T800
+  winner_energy:
+  - 17.5
+  elapsed_ticks: 8388
+  seed: 1434637770
+  robots:
+    Redrobot:
+      damage_given: 82.5
+      damage_taken: 102.3
+      kills: 0
+    T800:
+      damage_given: 102.3
+      damage_taken: 82.5
+      kills: 1
+  match: 6
+  round: 21
+- winner_is:
+  - T800
+  winner_energy:
+  - 47.5
+  elapsed_ticks: 5580
+  seed: 1434637772
+  robots:
+    Redrobot:
+      damage_given: 52.5
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 52.5
+      kills: 1
+  match: 7
+  round: 21
+- winner_is:
+  - T800
+  winner_energy:
+  - 10.0
+  elapsed_ticks: 8434
+  seed: 1434637775
+  robots:
+    Redrobot:
+      damage_given: 90.0
+      damage_taken: 102.0
+      kills: 0
+    T800:
+      damage_given: 102.0
+      damage_taken: 90.0
+      kills: 1
+  match: 8
+  round: 21
+- winner_is:
+  - T800
+  winner_energy:
+  - 47.5
+  elapsed_ticks: 6500
+  seed: 1434637778
+  robots:
+    Redrobot:
+      damage_given: 52.5
+      damage_taken: 102.6
+      kills: 0
+    T800:
+      damage_given: 102.6
+      damage_taken: 52.5
+      kills: 1
+  match: 9
+  round: 21
